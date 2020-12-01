@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders menu correctly 1`] = `
+<styled.div>
+  <h2>
+    Materials
+  </h2>
+  <styled.div>
+    <button
+      className="add"
+      onClick={[Function]}
+    >
+      +  Add
+    </button>
+    <button
+      className="delete"
+      onClick={[Function]}
+    >
+      -  Delete
+    </button>
+  </styled.div>
+  <styled.div>
+    <MaterialsList
+      handleSelect={[Function]}
+      materials={Array []}
+      selected={null}
+    />
+    <MaterialDetails
+      handleChange={[Function]}
+      material={null}
+    />
+  </styled.div>
+  <p
+    className="total-cost"
+  >
+    Total Cost:    $
+    0.00
+  </p>
+</styled.div>
+`;
