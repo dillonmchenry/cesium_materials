@@ -1,6 +1,6 @@
 # Cesium Materials Project
 Created by Dillon McHenry
-##How to run
+## How to run
 This is a react application created using "create-react-app". In order to run this application locally, you'll need to navigate inside the project directory and run "npm install" followed by "npm start". The project should now be hosted through "localhost".
 
 ## Reflection
